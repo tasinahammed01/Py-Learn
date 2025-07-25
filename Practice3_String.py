@@ -51,5 +51,8 @@
 # --------------------------------------------------------------
 
 # 5. Write a program to format the following letter using escape sequence characters.
-# Letter = " Dear Tasin, this python is nice. Thanks !"
+# letter = " Dear Tasin, this python is nice. Thanks !"
 
+letter = " Dear Tasin,\n\tthis python is nice.\nThanks !"
+
+print(letter)
