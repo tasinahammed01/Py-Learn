@@ -1,4 +1,4 @@
-# declare string
+# declare string  ||  Stings are not mutable
 name = "Tasin"
 # -----------------------------------------------------
 
