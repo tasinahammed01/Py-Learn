@@ -12,3 +12,10 @@ print(type(b))
 
 c = (1,) #This is a tuple. whe have to declare single value with comma
 print(type(c))
+
+
+d = (1,2,3,4,5,6,7,8,9,10)
+print(d[0])
+
+# d[0] = 100
+# print(d)  can't change the value of tuple. tuple is immutable
