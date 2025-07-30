@@ -71,9 +71,9 @@
 
 # 4. Write a program to sum a list with 4 numbers.
 
-num = [1,2,3,4]
+# num = [1,2,3,4]
 
-print(sum(num))
+# print(sum(num))
 
 # Sum is a predefined function . that take a list as an argument and return the sum of all the elements in the list
 
@@ -82,3 +82,12 @@ print(sum(num))
 
 # 5. Write a program to count the number of zeros in the following tuple:
 # a = （7,0,8,0,0,9）
+
+
+# a = (7,0,8,0,0,9)
+
+# print(a.count(0))
+
+
+
+# =======================================================================
